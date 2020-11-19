@@ -18,6 +18,8 @@ tekstinä tyhmille:
 
 6. JOTTA CUSTOM CSS TOIMII, niin kopioi custom css:t tiedoston loppuun
 
-7. ???
+7. Save
 
-8. liikevoittoa
+8. ???
+
+9. liikevoittoa
