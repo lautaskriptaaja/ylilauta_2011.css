@@ -12,7 +12,7 @@ tekstinä tyhmille:
 
 3. Kun olet laudalla, klikkaat Stylus-ikonia, ja Write style for ylilauta.org
 
-4. Copypasteta ylilauta_2011.css sisältö editoriin
+4. Copypasteta ylilauta_2011.css sisältö editoriin (ylilauta_2011.css https://raw.githubusercontent.com/lautaskriptaaja/ylilauta_2011.css/main/ylilauta_2011.css )
 
 5. Ruudun alhaalla on "Applies to"-kohta, missä pitää olla "URLs starting with" ja "https://ylilauta.org"
 
